@@ -1,4 +1,4 @@
-![Banner](banner.webp)
+![Banner]()
 
 # ¡Hola, soy [FEDERICO]! 👋
 
