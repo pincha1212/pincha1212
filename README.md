@@ -1,3 +1,4 @@
+![Banner](banner.webp)
 # ¡Hola, soy [FEDERICO]! 👋
 
 🧑‍💻 **Desarrollador Web** | 🍞 **Panadero Artesanal** | 🚀 **Aprendiendo siempre**
