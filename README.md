@@ -1,8 +1,8 @@
 ![Banner](banner.webp)
+
 # ¡Hola, soy [FEDERICO]! 👋
 
 🧑‍💻 **Desarrollador Web** | 🍞 **Panadero Artesanal** | 🚀 **Aprendiendo siempre**
-
 ---
 ## 🚀 Sobre mí
 - 🌍 Vivo en Mendoza, Argentina.
@@ -21,8 +21,16 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pincha1212&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=pincha1212&layout=compact&theme=radical)
 
+## 🚀 Mis habilidades
+
+- 🧑‍💻 **Frontend**: ![Frontend](https://img.shields.io/badge/Frontend-70%25-blue)
+- 📚 **Backend**: ![Backend](https://img.shields.io/badge/Backend-25%25-green)
+- 🍞 **Panadería Artesanal**: ![Panadería](https://img.shields.io/badge/Panadería-90%25-yellow)
+
+
 
 ## 📫 ¡Contáctame!
 - [🌐 LinkedIn](https://www.linkedin.com/in/federico-barzola-7138b3216)
 - [💼 Portafolio](https://pincha1212.github.io/fb-frontend-with-angular/)
 - 📧 Email: fedebarzola7@gmail.com
+
