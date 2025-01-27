@@ -17,6 +17,6 @@
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=pincha1212&show_icons=true&theme=radical)
 
 ## 📫 ¡Contáctame!
-- [LinkedIn](https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/federico-barzola-7138b3216/)
+- [LinkedIn](https://www.linkedin.com/in/federico-barzola-7138b3216)
 - [Portafolio](https://pincha1212.github.io/fb-frontend-with-angular/)
 - 📧 Email: fedebarzola7@gmail.com
