@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola, soy [FEDERICO]! 👋
 
-<!--
-**pincha1212/pincha1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 **Desarrollador Web** | 🍞 **Panadero Artesanal** | 🚀 **Aprendiendo siempre**
 
-Here are some ideas to get you started:
+---
+## 🚀 Sobre mí
+- 🌍 Vivo en Mendoza, Argentina.
+- 🎨 Me apasiona el diseño web y la panadería artesanal.
+- 🌱 Actualmente, estoy aprendiendo Angular y optimizando diseños para accesibilidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías que uso
+- **Frontend**: Angular, HTML, CSS, JavaScript.
+- **Backend**: Node.js, ExpressJS.
+- **Bases de datos**: MySQL.
+
+## 📈 Mi estadística de GitHub
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=pincha1212&show_icons=true&theme=radical)
+
+## 📫 ¡Contáctame!
+- [LinkedIn]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/federico-barzola-7138b3216/))
+- [Portafolio](https://pincha1212.github.io/fb-frontend-with-angular/)
+- 📧 Email: fedebarzola7@gmail.com
