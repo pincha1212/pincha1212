@@ -1,4 +1,4 @@
-![Banner]()
+![Banner](Diseñosintítulo.png)
 
 # ¡Hola, soy [FEDERICO]! 👋
 
