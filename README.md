@@ -1,4 +1,4 @@
-![Banner](https://pincha1212.github.io/rabbit/)
+![Banner]()
 
 # ¡Hola, soy [FEDERICO]! 👋
 
