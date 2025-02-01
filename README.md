@@ -1,4 +1,4 @@
-![Banner]()
+![Banner](CPT2501312322-1279x474.gif)
 
 # ¡Hola, soy [FEDERICO]! 👋
 
