@@ -1,4 +1,4 @@
-![Banner](Diseñosintítulo.png)
+![Banner](https://pincha1212.github.io/rabbit/)
 
 # ¡Hola, soy [FEDERICO]! 👋
 
